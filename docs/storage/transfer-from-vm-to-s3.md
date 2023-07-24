@@ -44,7 +44,7 @@ These are availabe in the *S3 buckets* section of BRYN. Click on the *API keys* 
 Step through all the other prompts. If the configuration is successful, you should be able to list your buckets, with `s3cmd ls`
 
 ```bash
-sm3cmd ls
+s3cmd ls
 ```
 
 ## Creating a bucket
